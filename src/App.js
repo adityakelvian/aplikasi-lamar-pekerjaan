@@ -352,6 +352,11 @@ ${name}
                         </pre>
                     </div>
                 )}
+
+                {/* Footer with credit */}
+                <div className="text-center mt-10 text-gray-500 text-sm">
+                    Dibuat dengan ❤️ oleh Aditya Kelvian Yunianto
+                </div>
             </div>
         </div>
     );
