@@ -1,74 +1,65 @@
-<b> APLIKASI MEMBUAT SURAT LAMARAN PEKERJAAN </b>
-# Getting Started with Create React App
+**Selamat Datang di "Aplikasi Membuat Surat Lamaran Pekerjaan" Website! 🚀**
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+"Halo! Selamat datang di repositori proyek aplikasi pembuat surat lamaran kerja saya. Aplikasi ini saya rancang untuk membantu Anda membuat surat lamaran dengan lebih mudah dan cepat. Silakan jelajahi kodenya, dan saya harap proyek ini bisa memberikan solusi atau inspirasi bagi Anda."
 
-## Available Scripts
+### 🚧 Status Proyek
 
-In the project directory, you can run:
+- **Status:** Selesai
+- **Tanggal Rilis Diharapkan:** Juni 2025
 
-### `npm start`
+### 🚀 Fitur Utama
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- **Input Data Diri:** Anda dapat mengisi informasi pribadi Anda (nama, alamat, nomor telepon, email, dll), serta detail perusahaan dan pekerjaan yang dilamar (nama perusahaan, alamat perusahaan, jabatan yang dilamar, salam pembuka).
+- **Keahlian:** Kustomisasi Isi Surat: Aplikasi ini menyediakan draf paragraf isi surat yang umum digunakan dengan pengguna memiliki kebebasan penuh seperti mengedit, menambah, atau menghapus paragraf sesuai dengan kualifikasi pelamar.
+- **Pesan Pemberitahuan:** Aplikasi ini dapat memberikan feedback kepada pengguna, seperti konfirmasi keberhasilan pembuatan/penyalinan surat atau peringatan jika ada bidang yang belum terisi.
+- **Responsif dan User-Friendly:** Desain aplikasi dibuat responsif dengan enggunakan Tailwind CSS, sehingga tampilannya dapat menyesuaikan dengan perangkat apapun.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 🛠️ Teknologi yang Digunakan
 
-### `npm test`
+- ** React.js **
+- ** Tailwind CSS **
+- ** Lucide Icons **
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 📬 Kontak
 
-### `npm run build`
+Ingin berkolaborasi atau mendiskusikan proyek? Jangan ragu untuk menghubungi saya melalui email di [adityakelvian10@gmail.com](mailto:adityakelvian10@gmail.com) atau terhubung dengan saya di [WhatsApp](https://wa.me/+6285712978343).
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### 🙏 Kontribusi
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Kontribusi dan umpan balik dari komunitas sangat dihargai. Jika Anda ingin berkontribusi, silakan buat _pull request_ atau buka _issue_.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### 👨‍💻 Cara Menjalankan Proyek
 
-### `npm run eject`
+1. Clone repositori ini ke direktori web server Anda.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+   ```bash
+   git clone https://github.com/adityakelvian/aplikasi-lamar-pekerjaan.git
+   ```
+   
+2. Pindah ke direktori proyek.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+   ```bash
+   cd aplikasi-lamar-pekerjaan.git
+   ```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+3. Buka proyek menggunakan editor kode favorit Anda, seperti Visual Studio Code atau Sublime Text.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+4. Jika ada dependensi proyek, pastikan untuk menginstalnya.
 
-## Learn More
+   ```bash
+   npm install
+   ```
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+5. Setelah instalasi selesai, jalankan proyek.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+   ```bash
+   npm start
+   ```
 
-### Code Splitting
+   Proyek akan dijalankan dan dapat diakses melalui browser di `http://localhost:3000/`.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Terima kasih atas antusiasme Anda menantikan kehadiran website ini! 🙌
 
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-=======
-# aplikasi-lamar-pekerjaan
->>>>>>> d1aeacd2ea8eabf59eea89dfad5585f25d453f25
+<div align="center">
+  &copy; 2024 [ADITYA KELVIAN]
+</div>
