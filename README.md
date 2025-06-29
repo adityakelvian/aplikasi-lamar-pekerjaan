@@ -38,7 +38,7 @@ Kontribusi dan umpan balik dari komunitas sangat dihargai. Jika Anda ingin berko
 2. Pindah ke direktori proyek.
 
    ```bash
-   cd aplikasi-lamar-pekerjaan.git
+   cd aplikasi-lamar-pekerjaan
    ```
 
 3. Buka proyek menggunakan editor kode favorit Anda, seperti Visual Studio Code atau Sublime Text.
