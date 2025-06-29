@@ -12,7 +12,7 @@
 - **Input Data Diri:** Anda dapat mengisi informasi pribadi Anda (nama, alamat, nomor telepon, email, dll), serta detail perusahaan dan pekerjaan yang dilamar (nama perusahaan, alamat perusahaan, jabatan yang dilamar, salam pembuka).
 - **Keahlian:** Kustomisasi Isi Surat: Aplikasi ini menyediakan draf paragraf isi surat yang umum digunakan dengan pengguna memiliki kebebasan penuh seperti mengedit, menambah, atau menghapus paragraf sesuai dengan kualifikasi pelamar.
 - **Pesan Pemberitahuan:** Aplikasi ini dapat memberikan feedback kepada pengguna, seperti konfirmasi keberhasilan pembuatan/penyalinan surat atau peringatan jika ada bidang yang belum terisi.
-- **Responsif dan User-Friendly:** Desain aplikasi dibuat responsif dengan enggunakan Tailwind CSS, sehingga tampilannya dapat menyesuaikan dengan perangkat apapun.
+- **Responsif dan User-Friendly:** Desain aplikasi dibuat responsif dengan menggunakan Tailwind CSS, sehingga tampilannya dapat menyesuaikan dengan perangkat apapun.
 
 ## 🛠️ Teknologi yang Digunakan
 
