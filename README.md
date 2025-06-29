@@ -61,5 +61,5 @@ Kontribusi dan umpan balik dari komunitas sangat dihargai. Jika Anda ingin berko
 Terima kasih atas antusiasme Anda menantikan kehadiran website ini! 🙌
 
 <div align="center">
-  &copy; **2024 ADITYA KELVIAN**
+  &copy; <b>2024 ADITYA KELVIAN</b>
 </div>
