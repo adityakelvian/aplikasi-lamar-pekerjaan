@@ -17,9 +17,8 @@
 ## 🛠️ Teknologi yang Digunakan
 
 - <b> React.js </b>
-- ** Tailwind CSS **
-- ** Lucide Icons **
-
+- <b> Tailwind CSS </b>
+- <b> Lucide Icons </b>
 ## 📬 Kontak
 
 Ingin berkolaborasi atau mendiskusikan proyek? Jangan ragu untuk menghubungi saya melalui email di [adityakelvian10@gmail.com](mailto:adityakelvian10@gmail.com) atau terhubung dengan saya di [WhatsApp](https://wa.me/+6285712978343).
