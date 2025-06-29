@@ -16,7 +16,7 @@
 
 ## 🛠️ Teknologi yang Digunakan
 
-- ** React.js **
+- <b> React.js </b>
 - ** Tailwind CSS **
 - ** Lucide Icons **
 
